@@ -1,5 +1,5 @@
-**React League of Legends fan website using data dragon provided by riotApi
-**
+# React League of Legends fan website using data dragon provided by riotApi
+
 
 <img src="https://i.gyazo.com/0f367307dcd5a0efeb07861981d24bcb.jpg" />
 
