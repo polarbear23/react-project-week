@@ -1,9 +1,10 @@
-# React League of Legends fan website using data dragon provided by riotApi
+# React League of Legends fan website 
+### Using data dragon provided by riotApi
 
+## Preview:
 
 <img src="https://i.gyazo.com/0f367307dcd5a0efeb07861981d24bcb.jpg" />
 
-Preview:
 
 <img src="./readmeImages/c2dba354b624cc79b614132e023dd60c.gif" />
 
@@ -11,10 +12,10 @@ Preview:
 <img src="./readmeImages/e6eb32af02c696c57e372a83d9533ef8.gif" />
 
 
-# To run this app,
+### To run this app,
 
-# ```npm ci```
+### ```npm ci```
 
-# Then 
+### Then 
 
-# ```npm run devstart```
+### ```npm run devstart```
