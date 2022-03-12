@@ -1,2 +1,8 @@
-# js-project-week
-Boolean Project Week
+
+To run this app,
+
+```npm ci```
+
+then 
+
+```npm run devstart```

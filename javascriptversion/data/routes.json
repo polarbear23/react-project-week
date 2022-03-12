@@ -1,5 +1,0 @@
-
-{
-    "/championFull": "/championFull?_expand=state",
-    "/championFull/*": "/championFull/$1?_expand=state"
-}
