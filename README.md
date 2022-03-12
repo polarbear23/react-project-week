@@ -11,10 +11,10 @@ Preview:
 <img src="./readmeImages/e6eb32af02c696c57e372a83d9533ef8.gif" />
 
 
-To run this app,
+# To run this app,
 
-```npm ci```
+# ```npm ci```
 
-Then 
+# Then 
 
-```npm run devstart```
+# ```npm run devstart```
