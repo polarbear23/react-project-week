@@ -1,5 +1,6 @@
 # React League of Legends fan website 
 ### Using data dragon provided by riotApi
+I recreated my javascript website showcasing champions from the game league of legends in React.
 
 ### To run this app, Clone Repo ----
 
