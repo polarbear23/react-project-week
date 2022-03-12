@@ -1,6 +1,14 @@
 # React League of Legends fan website 
 ### Using data dragon provided by riotApi
 
+### To run this app, Clone Repo ----
+
+### ```npm ci```
+
+### Then 
+
+### ```npm run devstart```
+
 ## Preview:
 
 <img src="https://i.gyazo.com/0f367307dcd5a0efeb07861981d24bcb.jpg" />
@@ -11,11 +19,3 @@
 
 <img src="./readmeImages/e6eb32af02c696c57e372a83d9533ef8.gif" />
 
-
-### To run this app,
-
-### ```npm ci```
-
-### Then 
-
-### ```npm run devstart```
